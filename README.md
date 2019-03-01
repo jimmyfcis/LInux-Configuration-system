@@ -2,8 +2,10 @@
 what the project aim to ?
 here , we want to deploy project to the linux server machine with all requirements such as securing it and updating the database, here the details to accses the project on the internet:
 
-The IP Address: 34.220.97.82
+The IP Address: http://34.220.97.82/
+
 SSH Port: 2200
+
 URL using DNS: ec2-34-220-97-82.us-west-2.compute.amazonaws.com
 
 
